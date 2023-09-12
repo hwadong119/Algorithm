@@ -17,6 +17,7 @@
 |1152. 단어의 개수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1152.%E2%80%85%EB%8B%A8%EC%96%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/%EB%8B%A8%EC%96%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98.js)|
 |2439. 별 찍기 － 2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2439.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%852/README.md)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
+|2588. 곱셈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2588.%E2%80%85%EA%B3%B1%EC%85%88/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
