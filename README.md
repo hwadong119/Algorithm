@@ -38,6 +38,7 @@
 ### 🚀 Gold
 | 문제번호 | 링크 |
 | ----- | ----- |
+|1197. 최소 스패닝 트리|[링크](./%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/README.md)|
 |1493. 박스 채우기|[링크](./%EB%B0%B1%EC%A4%80/Gold/1493.%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/README.md)|
 |17609. 회문|[링크](./%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8/README.md)|
 |5052. 전화번호 목록|[링크](./%EB%B0%B1%EC%A4%80/Gold/5052.%E2%80%85%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%E2%80%85%EB%AA%A9%EB%A1%9D/README.md)|
