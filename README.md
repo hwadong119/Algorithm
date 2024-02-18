@@ -91,6 +91,7 @@
 |9009. 피보나치|[링크](./%EB%B0%B1%EC%A4%80/Silver/9009.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98/README.md)|
 |9012. 괄호|[링크](./%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8/README.md)|
 |9372. 상근이의 여행|[링크](./%EB%B0%B1%EC%A4%80/Silver/9372.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/README.md)|
+|9625. BABBA|[링크](./%EB%B0%B1%EC%A4%80/Silver/9625.%E2%80%85BABBA/README.md)|
 ### 🚀 Silver V
 | 문제번호 | 링크 |
 | ----- | ----- |
