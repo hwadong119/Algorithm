@@ -162,6 +162,7 @@
 |9372. 상근이의 여행|[링크](./%EB%B0%B1%EC%A4%80/Silver/9372.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/README.md)|
 |9613. GCD 합|[링크](./%EB%B0%B1%EC%A4%80/Silver/9613.%E2%80%85GCD%E2%80%85%ED%95%A9/README.md)|
 |9625. BABBA|[링크](./%EB%B0%B1%EC%A4%80/Silver/9625.%E2%80%85BABBA/README.md)|
+|9656. 돌 게임 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/9656.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852.js)|
 ### 🚀 Silver V
 | 문제번호 | 링크 |
 | ----- | ----- |
